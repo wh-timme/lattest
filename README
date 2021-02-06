@@ -1,0 +1,3 @@
+lattest is a Cache & DRAM Latency Benchmark Tool.
+
+It uses fast pseudo random read for latency testing.
